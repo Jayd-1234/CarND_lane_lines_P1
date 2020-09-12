@@ -317,7 +317,7 @@ An example image with the houghLines on it are shown below:
 
 Original Image | Hough Line Segments
 :---: | :---:
-![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_processed_segments_solidYellowCurve.jpg)
+![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_Processed_Segments_solidYellowCurve.jpg)
 
 ---
 
@@ -343,7 +343,7 @@ For implementation, please have a look at the `draw_lines()` function in the not
 
 Original Images| Left and Right Lanes Segmented
 :---: | :---:
-![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_processed_Rightleft_solidYellowCurve.jpg)
+![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_Processed_Rightleft_solidYellowCurve.jpg)
 
 ---
 
@@ -374,7 +374,7 @@ For Linear Interpolation, we shall fit a single line for the left and right lane
 
 Original Images| Interpolation result
 :---: | :---:
-![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_processed_Redgreen_solidYellowCurve.jpg)
+![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_Processed_Redgreen_solidYellowCurve.jpg)
 
 ---
 
@@ -393,7 +393,7 @@ The pipeline goes as follows:
 
 Original Images| Interpolation result
 :---: | :---:
-![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_processed_Poly_solidYellowCurve.jpg)
+![](test_images/solidYellowCurve.jpg) | ![](Writeup_images/Final_Processed_Poly_solidYellowCurve.jpg)
 
 ---
 
